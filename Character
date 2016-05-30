@@ -1,1 +1,8 @@
-"Favorite character"
+if(favChar=="Peter Griffin")
+{
+	print"Nice";
+}
+else
+{
+	print"Not Nice";
+}
